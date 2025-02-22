@@ -1,0 +1,31 @@
+Teacher,Shift 0,Shift 1,Shift 2
+Alice,"Sunday: One-Bengali
+Monday: Two-H. Math
+Wednesday: One-Bengali
+Thursday: One-English","Saturday: One-Bengali
+Sunday: One-English
+Monday: One-Bengali
+Tuesday: One-English","Saturday: One-English
+Sunday: Two-H. Math
+Monday: One-English
+Tuesday: One-Bengali
+Wednesday: One-English
+Thursday: One-Bengali"
+Bob,"Saturday: One-Math
+Sunday: Two-Math
+Monday: One-Math
+Tuesday: One-Math
+Wednesday: Two-Math","Saturday: Two-Math
+Tuesday: Two-Math
+Wednesday: One-Math
+Thursday: One-Math","Sunday: One-Math
+Monday: Two-Math
+Thursday: Two-Math"
+Jolly,"Sunday: Three-Biology
+Wednesday: Three-Biology","Saturday: Three-ICT
+Tuesday: Three-ICT","Sunday: Three-ICT
+Tuesday: Three-Biology"
+Mark,"Saturday: Two-Physics
+Tuesday: Two-Physics","Monday: Two-Physics
+Wednesday: Three-BGS","Saturday: Three-BGS
+Monday: Three-BGS"
